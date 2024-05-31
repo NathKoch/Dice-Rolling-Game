@@ -1,0 +1,10 @@
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\bin\Debug\Koch_OOP_KT3.exe.config
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\bin\Debug\Koch_OOP_KT3.exe
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\bin\Debug\Koch_OOP_KT3.pdb
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\obj\Debug\Koch_OOP_KT3.csproj.AssemblyReference.cache
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\obj\Debug\Koch_OOP_KT3.NK_Form1.resources
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\obj\Debug\Koch_OOP_KT3.Properties.Resources.resources
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\obj\Debug\Koch_OOP_KT3.csproj.GenerateResource.cache
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\obj\Debug\Koch_OOP_KT3.csproj.CoreCompileInputs.cache
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\obj\Debug\Koch_OOP_KT3.exe
+C:\Backup\OOP\NK_Homework\Koch_OOP_KT3\Koch_OOP_KT3\Koch_OOP_KT3\obj\Debug\Koch_OOP_KT3.pdb

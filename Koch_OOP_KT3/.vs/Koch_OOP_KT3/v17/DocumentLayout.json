@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Backup\\OOP\\NK_Homework\\Koch_OOP_KT3\\Koch_OOP_KT3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05EE7DD7-7197-4C2F-9539-F82134340E83}|Koch_OOP_KT3\\Koch_OOP_KT3.csproj|c:\\backup\\oop\\nk_homework\\koch_oop_kt3\\koch_oop_kt3\\koch_oop_kt3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05EE7DD7-7197-4C2F-9539-F82134340E83}|Koch_OOP_KT3\\Koch_OOP_KT3.csproj|solutionrelative:koch_oop_kt3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EE7DD7-7197-4C2F-9539-F82134340E83}|Koch_OOP_KT3\\Koch_OOP_KT3.csproj|C:\\Backup\\OOP\\NK_Homework\\Koch_OOP_KT3\\Koch_OOP_KT3\\koch_oop_kt3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EE7DD7-7197-4C2F-9539-F82134340E83}|Koch_OOP_KT3\\Koch_OOP_KT3.csproj|solutionrelative:koch_oop_kt3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Backup\\OOP\\NK_Homework\\Koch_OOP_KT3\\Koch_OOP_KT3\\Koch_OOP_KT3\\Form1.cs",
+              "RelativeDocumentMoniker": "Koch_OOP_KT3\\Form1.cs",
+              "ToolTip": "C:\\Backup\\OOP\\NK_Homework\\Koch_OOP_KT3\\Koch_OOP_KT3\\Koch_OOP_KT3\\Form1.cs",
+              "RelativeToolTip": "Koch_OOP_KT3\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwD8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:37:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Backup\\OOP\\NK_Homework\\Koch_OOP_KT3\\Koch_OOP_KT3\\Koch_OOP_KT3\\Form1.cs",
+              "RelativeDocumentMoniker": "Koch_OOP_KT3\\Form1.cs",
+              "ToolTip": "C:\\Backup\\OOP\\NK_Homework\\Koch_OOP_KT3\\Koch_OOP_KT3\\Koch_OOP_KT3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Koch_OOP_KT3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:29:18.45Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
