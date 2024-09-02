@@ -1,4 +1,4 @@
-# Dice Rolling Game
+# Dice Rolling Simulation
 
 This C# project uses Windows Forms to create a graphical user interface (GUI). It is designed to implement a simple dice rolling game for two players. The project is part of an object-oriented programming course.
 
